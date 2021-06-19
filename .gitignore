@@ -1,0 +1,10 @@
+checkpoints/*
+checkpoints_2/
+Plots/*
+trained_models/*
+.ipynb_checkpoints/*
+__pycache__/*
+*.ipynb
+*.csv
+full_dataset/*
+v4/*
